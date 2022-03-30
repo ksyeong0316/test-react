@@ -4,7 +4,7 @@ import NameTag from './NameTag'
 function App() {
   return (
     <>
-      <NameTag type='cat' name='meyow' size='small' sound='low' appearence='cute'/>
+      <NameTag type='dog' name='meyow' size='small' sound='low' appearence='cute'/>
     </>
   );
 }
